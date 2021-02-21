@@ -1,0 +1,6 @@
+pyautogui
+matplotlib 
+numpy 
+colorama 
+
+
