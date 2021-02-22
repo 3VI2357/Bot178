@@ -1,0 +1,3 @@
+Make a new folder and drag each file into the new folder. Rename the folder to Bot178 or anything
+Than open cmd and type cd and type the paths. Dm on Discord if you need help Everest#2669. Than once you put it on the paths
+Type py pixelgraphing.py. (Enter) And than done :D 
